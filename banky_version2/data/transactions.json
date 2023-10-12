@@ -1,0 +1,43 @@
+{
+    "bankrekening":[
+        {
+            "from/to": "Jeroen",
+            "amount": 10,
+            "logo": "fa-solid fa-user"
+        },
+
+        {
+            "from/to": "Dejorden",
+            "amount":100
+        },
+
+        {
+            "from/to":"Mert",
+            "amount": -100
+        },
+
+        {
+            "from/to": "Ahmet",
+            "amount": -20
+        },
+
+        {
+            "from/to": "Ahmet",
+            "amount": 20
+        }
+        
+    ],
+
+    "ZZP-Rekening":[
+        {
+            "from/to": "Bedrijf X",
+            "amount": 10000,
+            "logo": "fa-solid fa-business-time"
+        },
+
+        {
+            "from/to": "Bedrijf Z",
+            "amount":-500
+        }
+    ]
+}
